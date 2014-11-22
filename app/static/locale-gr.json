@@ -140,28 +140,28 @@
 "desc_title": "BitShares X Το Αποκεντροποιημένο Ανταλακτήριο",
 "desc_content_1": "BitShares X is an experimental decentralized exchange that will allow for trading a special type of derivative assets (like BitGold) that track the value of real-world assets (like Gold) using a contract for a difference based on a decentralized price feed. This is reinforced with a prediction-market-like mechanic which rewards traders who push the price towards consensus. It will also allow users to issue traditional non-pegged assets.",
 "desc_content_2": "",
-"wrong_pass": "Wrong Password."
+"wrong_pass": "Λάθος κωδικός!."
 },
 "wallet": {
-"create_new_wallet": "Create a New Wallet",
-"info": "Your password is mandatory and controls when and how your funds may be spent. If you forget this password you will be unable to transfer your shares.",
-"create_wallet": "Create Wallet"
+"create_new_wallet": "Δημιούρφησε νέο πορτοφόλι",
+"info": "Ο κωδικός σου είναι mandatory καί ελέγχει πότε και πώς θα χρησιμοποιθεί το υπόλοιπο.Αν ξεχάσεις τον κωδικό δεν υπάρχει δυνατότητα μεταφοράς κεφαλαίων and controls when and how your funds may be spent. If you forget this password you will be unable to transfer your shares.",
+"create_wallet": "Δημιούργησε πορτοφόλι"
 },
 "index": {
-"title": "BitShares XT Wallet",
-"overview": "Overview",
-"my_account": "My Accounts",
-"directory": "Directory",
-"delegates": "Delegates",
+"title": "BitShares Πορτοφόλι",
+"overview": "Επισκόπηση",
+"my_account": "Οι λογαριασμοί μου",
+"directory": "Φάκελος",
+"delegates": "Αντιπρόσωποι",
 "market": "Market",
-"block_explorer": "Block Explorer",
-"preferences": "Preferences",
-"console": "Console",
-"help": "Help",
-"lock": "Lock",
-"daily_income": "Network Daily Income",
-"daily_expense": "Network Daily Expense",
-"daily_burn": "Network Daily Burn"
+"block_explorer": "Περιηγητής των block",
+"preferences": "Προτιμήσεις",
+"console": "Κονσόλα",
+"help": "Βοήθεια",
+"lock": "Κλείδωμα",
+"daily_income": "Δικτυακά ημερήσιά έσοδα",
+"daily_expense": "Δικτυακά ημερήσια έξοδα",
+"daily_burn": "Δικτυακή ημερήσια 'καταστροφή' "
 },
 "delegate": {
 "title": "Delegates",
